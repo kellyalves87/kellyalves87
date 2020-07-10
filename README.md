@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center">
+ <img width="100%" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" />
+</p>
 
-<!--
-**kellyalves87/kellyalves87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
 
-Here are some ideas to get you started:
+### Muito prazer, eu sou a Kelly! 👩🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 Estudante Frontend na Laboratória <br>
+📚 Em constante aprendizado <br>
+💻 Apaixonada pelo mundo da tecnologia <br>
+🎶 Não vivo sem música <br>
+🎸 Toco baixo <br>
+🎮 E as vezes jogo video-game <br>
+🍕 Pizza é a minha religião <br>
+📍 São Paulo, SP <br>
+
+  
+
+### Follow me 💁🏻 
+
+🐦 https://twitter.com/Kellynha87 <br>
+💼 https://www.linkedin.com/in/kellyp-alves/ <br>
+
+</samp>
