@@ -1,10 +1,10 @@
 <p align="center">
- <img width="25%" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" />
+ <img width="15%" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" />
 </p>
 
 <samp>
 
-### Muito prazer, Kelly! 👩🏻
+### Muito prazer, me chamo Kelly! 👩🏻
 
 👩🏻‍💻 Estudante Frontend na Laboratória <br>
 📚 Em constante aprendizado <br>
