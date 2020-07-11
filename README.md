@@ -4,7 +4,7 @@
 
 <samp>
 
-### Muito prazer, me chamo Kelly! 👩🏻
+### Sejam bem-vindos! 👩🏻
 
 👩🏻‍💻 Estudante Frontend na Laboratória <br>
 📚 Em constante aprendizado <br>
