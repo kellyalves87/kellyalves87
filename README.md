@@ -1,6 +1,5 @@
-<p align="center">
- <img width="15%" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" />
-</p>
+<img src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif" />
+
 
 <samp>
 
@@ -17,7 +16,8 @@
 
   
 
-### Follow me 💁🏻 
+### <a href="https://icons8.com/icon/44019/linkedin">LinkedIn icon by Icons8</a>
+### <a href="https://icons8.com/icon/MP7jET0S1bw5/twitter-squared">Twitter Squared icon by Icons8</a>
 
 🐦 https://twitter.com/Kellynha87 <br>
 💼 https://www.linkedin.com/in/kellyp-alves/ <br>
