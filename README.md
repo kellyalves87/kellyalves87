@@ -16,10 +16,11 @@
 
   
 
-### <a href="https://icons8.com/icon/44019/linkedin">LinkedIn icon by Icons8</a>
-### <a href="https://icons8.com/icon/MP7jET0S1bw5/twitter-squared">Twitter Squared icon by Icons8</a>
+### Siga me 💁🏻
 
-🐦 https://twitter.com/Kellynha87 <br>
-💼 https://www.linkedin.com/in/kellyp-alves/ <br>
+
+
+🐦 [**_Twitter_**](https://twitter.com/Kellynha87) <br>
+📋 [**_LinkedIn_**](https://www.linkedin.com/in/kellyp-alves/) <br>
 
 </samp>
