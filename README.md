@@ -1,5 +1,8 @@
 ![welcome-to-my-world](https://user-images.githubusercontent.com/54040625/87431104-8c80db80-c5bc-11ea-9734-9c0e4f1916bb.png)
 
+![Kelly github stats](https://github-readme-stats.vercel.app/api?username=kellyalves87&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyalves87)](https://github.com/kellyalves87/github-readme-stats)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellyp-alves/)](https://www.linkedin.com/in/kellyp-alves/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kellyp.alves87@gmail.com)](mailto:kellyp.alves87@gmail.com)
 
