@@ -45,8 +45,7 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
 
 <p align="left">
 <a href="https://twitter.com/@kellalves_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@kellalves_" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kellyp-alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kellyp-alves" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/kelly-alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kelly-alves" height="30" width="30" /></a>
+<a href="https://fb.com/kellynha87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kellynha87" height="30" width="30" /></a>
 <a href="https://instagram.com/_keldev_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_keldev_" height="30" width="30" /></a>
 </p>
 
