@@ -32,7 +32,6 @@ src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="
 - 👩🏻‍💻 Frontend developer <br>
 - 📚 In constant learning <br>
 - 💻 Passionate about the world of technology <br>
-- 📝 I regulary write articles on [programaDev](https://programadev.com.br/) <br>
 - 🎶 I can't live without music <br>
 - 🎸 I play bass <br>
 - 🎮 And somentimes I play video-game <br>
